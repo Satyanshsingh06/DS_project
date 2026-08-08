@@ -1,3 +1,2 @@
 # DS_project
-
-76543345876rtfgf
+Working on Manufacturing and supply chain management.
