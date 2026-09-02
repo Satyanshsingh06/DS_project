@@ -1,4 +1,26 @@
 # DS_project
-learning buissness model -
-To develop an interactive GUI-based platform that helps Datascience learners to understand the Fundamentals of Data Science through structured explanations, examples, visualizations, and interactive simulations.
-30/08/2026 makin home page of project that contains index of our project i.e. topics of data science
+
+Interactive Data Science Learning and Visualization System.
+
+## Goal
+Build a GUI-based platform that helps learners understand Data Science through:
+- chapter-wise navigation,
+- subtopic-wise definitions and summaries,
+- quick visual comparison graphs.
+
+## Current Prototype
+A Tkinter desktop app is available at:
+- `/home/runner/work/DS_project/DS_project/app.py`
+
+It currently includes:
+- Home-style chapter index list,
+- Subtopic selection panel,
+- Learning panel with definition + summary,
+- Simple comparison bar graph for each subtopic.
+
+## Run
+From `/home/runner/work/DS_project/DS_project`:
+
+```bash
+python app.py
+```
